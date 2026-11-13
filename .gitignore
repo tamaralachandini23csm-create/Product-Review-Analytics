@@ -12,3 +12,10 @@ output/
 __pycache__/
 *.pyc
 
+# Machine Learning
+ml_env/
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
